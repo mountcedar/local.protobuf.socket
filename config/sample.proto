@@ -1,0 +1,7 @@
+package sample;
+
+message Message {
+	required int32 id = 1;
+	required string data = 2;
+}
+
